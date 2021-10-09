@@ -1,9 +1,9 @@
-# National Institute of Technology Silchar,
+National Institute of Technology Silchar,
 
-# DSA Assignment 1,
+DSA Assignment 1,
 
-# Data Structures,
+Data Structures,
 
-# Course Code: CS 201
+Course Code: CS 201
 
-# Adithya Sirivella Sc. ID 2012119
+Adithya Sirivella Sc. ID 2012119
